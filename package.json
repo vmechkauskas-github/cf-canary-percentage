@@ -11,7 +11,7 @@
     "description": "description text",
     "dependencies": {},
     "devDependencies": {
-        "browser-sync": "^2.14.3",
+        "browser-sync": "^2.29.3",
         "browser-sync-spa": "^1.0.3",
         "del": "^2.2.2",
         "eslint": "^4.18.2",
